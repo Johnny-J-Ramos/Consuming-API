@@ -16,4 +16,15 @@ Criar uma API
 Consumir API
 
 - [] Utilizar fetch para consumir nossa API do backend
-- [] Explicar o Promise -
+- [] Explicar o Promise - Async/await
+- [] Usar try/carch
+- [] Mostrar a resposta na tela
+
+## backend
+
+Consumir API
+
+- [] jsonplachalder
+- [] Usar exios
+- [] Semelhanças entre axios e fech
+- [] Usar try/carch
