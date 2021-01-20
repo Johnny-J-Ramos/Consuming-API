@@ -24,7 +24,7 @@ Consumir API
 
 Consumir API
 
-- [] jsonplachalder
-- [] Usar exios
-- [] Semelhanças entre axios e fech
-- [] Usar try/carch
+- [x] jsonplachalder
+- [x] Usar exios
+- [x] Semelhanças entre axios e fech
+- [x] Usar try/carch
