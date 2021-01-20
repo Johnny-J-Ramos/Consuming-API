@@ -4,10 +4,21 @@ async function getContent() {
     //console.log(response)
     const data = await response.json()
 
-    console.log(data)
+    show(data)
+
   } catch (error) {
     console.log('errouuu')
   }
 }
 
 getContent()
+
+function show(users) {
+  let output = ''
+
+  for(let user  of users) {
+    output += `<li>${user.name}</li>`
+  }
+
+  document.querySelector('main').innerHTML = output
+}
